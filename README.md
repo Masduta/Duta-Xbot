@@ -13,7 +13,7 @@
 <h4 align="center"> DISCLAIMER </p>
 
 ```
-             ⚠️ PERINGATAN UNTUK ANDA ⚠️ ️
+        ⚠️ PERINGATAN UNTUK ANDA ⚠️ ️
   Duta-Xbot digunakan untuk membantu aktifitas akun anda di telegram
    Kami tidak bertanggung jawab atas apa yang anda salah gunakan pada repository ini
       ! Hati hati dalam penggunaan pada repository ini !
